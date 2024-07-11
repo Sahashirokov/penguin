@@ -1,0 +1,8 @@
+.myInput
+{
+   width: max-content !important;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border: 2px solid #3783e6;
+    border-radius: 5px;
+}
